@@ -3,7 +3,7 @@ Bank management governs various concerns associated with bank. The Project “Ba
 
 <h3>Linked List</h3>
 
-	  A linked list is a linear collection of data elements called nodes each pointing to the next 	  node by means of a pointer
+A linked list is a linear collection of data elements called nodes each pointing to the next node by means of a pointer
 It is a data structure consisting of a group of nodes which together represent a sequence. Under the simplest form, each node is composed of data and a reference (in other words, a link) to the next node in the sequence.
 The last node has a reference to null. The entry point into a linked list is called the head of the list. It should be noted that head is not a separate node, but the reference to the first node. If the list is empty then the head is a null reference.
 
